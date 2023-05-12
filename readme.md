@@ -1,4 +1,4 @@
-enlace a resumen git:[Resumen Git](https://github.com/DavidNunez6/DavidNunez6#git)
+enlace a resumen git:[Resumen Git](https://github.com/DavidNunez6/DavidNunez6/blob/main/git.md)
 
 
 D.N.D.
